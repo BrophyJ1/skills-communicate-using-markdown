@@ -7,3 +7,5 @@
 ###### H6 Header
 
 I added several different kinds of headers to this file to see what each one looked like.
+
+![My Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
